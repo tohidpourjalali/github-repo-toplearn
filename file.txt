@@ -2,3 +2,5 @@ This is file.
 
 
 Add login feature.
+
+Add register feature.
